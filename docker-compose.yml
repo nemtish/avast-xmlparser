@@ -1,0 +1,29 @@
+version: "3.9"
+services:
+  php:
+    build:
+      context: ./
+      dockerfile: ./.docker/php/Dockerfile
+    command: /script/export.sh -v /tmp/config.xml
+    container_name: app-php
+    environment:
+      - REDIS_HOST=app-redis
+      - REDIS_PORT=6379
+      - REDIS_PERSISTENCE=1
+    volumes: 
+        - .:/app
+        - /app/vendor
+        - ./export.sh:/script/export.sh
+        - ./config.xml:/tmp/config.xml
+    links:
+      - redis:app-redis
+    depends_on:
+      - redis
+  redis:
+    build: ./.docker/redis
+    restart: always
+    ports:
+        - "6379"
+    container_name: app-redis
+    volumes:
+        - ./.docker/redis/data:/data

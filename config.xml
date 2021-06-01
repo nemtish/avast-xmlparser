@@ -1,0 +1,92 @@
+<config>
+    <subdomains>
+        <subdomain>http://secureline.tools.avast.com</subdomain>
+        <subdomain>http://gf.tools.avast.com</subdomain>
+        <subdomain>http://files.avast.com</subdomain>
+        <subdomain>https://files.avast.com</subdomain>
+        <subdomain>https://install.avcdn.net</subdomain>
+        <subdomain>http://bits.ff.avast.com</subdomain>
+        <subdomain>http://a381mp.avast.com</subdomain>
+        <subdomain>http://s.files.avast.com</subdomain>
+        <subdomain>http://bcu.tools.avast.com</subdomain>
+        <subdomain>http://iavs9x.u.avast.com</subdomain>
+        <subdomain>http://www.avg.com</subdomain>
+        <subdomain>https://www.avg.com</subdomain>
+        <subdomain>http://drup.d.avcdn.net</subdomain>
+        <subdomain>https://drup.d.avcdn.net</subdomain>
+        <subdomain>http://cleanup.u.avcdn.net</subdomain>
+        <subdomain>https://cleanup.u.avcdn.net</subdomain>
+        <subdomain>http://iabs.d.avast.com</subdomain>
+        <subdomain>http://avast.ustab.d.avcdn.net</subdomain>
+        <subdomain>http://files-download.avg.com</subdomain>
+        <subdomain>https://files-download.avg.com</subdomain>
+        <subdomain>http://download.ff.avast.com</subdomain>
+        <subdomain>http://tuneup.avast.tools.avcdn.net</subdomain>
+        <subdomain>http://cdn-download.avastbrowser.com</subdomain>
+        <subdomain>https://cdn-download.avastbrowser.com</subdomain>
+        <subdomain>http://mac-av.u.avcdn.net</subdomain>
+        <subdomain>https://mac-av.u.avcdn.net</subdomain>
+        <subdomain>http://iavs9x.avg.u.avcdn.net</subdomain>
+        <subdomain>http://beta9x.avg.u.avcdn.net</subdomain>
+        <subdomain>http://trackoff.d.avcdn.net</subdomain>
+        <subdomain>https://s-mac-sl.avcdn.net</subdomain>
+        <subdomain>https://s-bconprem.avcdn.net</subdomain>
+        <subdomain>https://bits.ff.avast.com</subdomain>
+        <subdomain>https://s-drup.avcdn.net</subdomain>
+        <subdomain>https://install-macsl.avcdn.net</subdomain>
+        <subdomain>https://s-install.avcdn.net</subdomain>
+        <subdomain>https://cdn-download.avgbrowser.com</subdomain>
+        <subdomain>https://s-trackoff.avcdn.net</subdomain>
+		<subdomain>https://bits.avcdn.net</subdomain>
+    </subdomains>
+
+	<cookies>
+        <cookie name="dlp-avast" host="amazon">mmm_amz_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="baixaki">mmm_bxk_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="computerbuild">mmm_cbd_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="chip">mmm_cip_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="comss">mmm_cms_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="cnet">mmm_cnt_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="dobreprogramy">mmm_dbp_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="donwloaden">mmm_dld_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="facebook">mmm_fcb_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="filehippo">mmm_fhp_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="forest">mmm_for_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="html">mmm_htm_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="homepate">mmm_htr_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="naver">mmm_nav_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="01net">mmm_net_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="softpedia">mmm_sfp_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="softonic">mmm_sft_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="slunecnice">mmm_slc_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="stahuj">mmm_sth_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="tamindir">mmm_tam_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="ultradownloads">mmm_uld_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="uptodown">mmm_utd_dlp_777_ppc_m</cookie>
+        <cookie name="dlp-avast" host="vector">mmm_vct_dlp_777_ppc_m</cookie>
+
+        <cookie name="dlp-avg" host="amazon">mmm_amz_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="baixaki">mmm_bxk_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="computerbuild">mmm_cbd_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="chip">mmm_cip_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="comss">mmm_cms_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="cnet">mmm_cnt_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="dobreprogramy">mmm_dbp_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="donwloaden">mmm_dld_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="facebook">mmm_fcb_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="filehippo">Mmm_fhp_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="forest">mmm_for_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="html">mmm_htm_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="homepate">mmm_htr_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="naver">mmm_nav_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="01net">mmm_net_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="softpedia">mmm_sfp_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="softonic">mmm_sft_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="slunecnice">mmm_slc_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="stahuj">mmm_sth_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="tamindir">mmm_tam_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="ultradownloads">mmm_uld_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="uptodown">mmm_utd_dlp_779_ppc_m</cookie>
+        <cookie name="dlp-avg" host="vector">mmm_vct_dlp_779_ppc_m</cookie>
+	</cookies>
+</config>
